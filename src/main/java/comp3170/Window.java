@@ -1,4 +1,4 @@
-package comp3170;
+package me.ilucah.jaudiovisualiserapi;
 
 import static org.lwjgl.glfw.Callbacks.glfwFreeCallbacks;
 import static org.lwjgl.glfw.GLFW.GLFW_COCOA_RETINA_FRAMEBUFFER;

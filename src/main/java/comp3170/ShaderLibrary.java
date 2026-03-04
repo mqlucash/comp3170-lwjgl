@@ -1,4 +1,4 @@
-package comp3170;
+package me.ilucah.jaudiovisualiserapi;
 
 import java.io.File;
 import java.io.FileNotFoundException;
