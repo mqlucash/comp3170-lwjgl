@@ -1,4 +1,4 @@
-package me.ilucah.jaudiovisualiserapi;
+package comp3170;
 
 import java.util.ArrayList;
 import java.util.List;

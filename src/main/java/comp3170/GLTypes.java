@@ -1,4 +1,4 @@
-package me.ilucah.jaudiovisualiserapi;
+package comp3170;
 
 import static org.lwjgl.opengl.GL11.GL_DOUBLE;
 import static org.lwjgl.opengl.GL11.GL_FLOAT;

@@ -1,4 +1,4 @@
-package me.ilucah.jaudiovisualiserapi;
+package comp3170;
 
 import static org.lwjgl.BufferUtils.createFloatBuffer;
 import static org.lwjgl.BufferUtils.createIntBuffer;
